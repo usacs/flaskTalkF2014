@@ -1,0 +1,26 @@
+HTML stands for Hypertext (Markup Language)
+HTML should remind you of Microsoft Word.
+HTML is the language of the web.
+
+HTML is a client - server interaction. The client is usually a web browser, the server is something like google.com
+
+The HTML code I wrote represents a simple web page.
+
+HTML is not a programming language. It cannot perform Input/Output.
+
+To do input/output, we will use Python - specifically Flask.
+
+Web Server in Flask - Map HTTP Requests to HTTP Responses.
+                          ( URL ) -> HTML
+
+Gerlanda's home page here is:
+http://localhost:5000/
+
+After clicking submit the page is:
+http://localhost:5000/process?order=plain+pizza
+
+We showed how we can write HTML code to show things on webpages.
+
+We showed how we can do simple input/output using Python/Flask
+
+We showed that you can write any Python code (even send a text message) when you're writing a dynamic web site.
